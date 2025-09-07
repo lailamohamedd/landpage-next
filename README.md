@@ -32,46 +32,6 @@ The project focuses on **clean UI, reusability, and performance**, providing a s
 
 ---
 
-## 📂 Project Structure  
-
-app/
-├── components/Home/
-│ ├── AnalyticsFeature.tsx
-│ ├── Feature.tsx
-│ ├── Footer.tsx
-│ ├── Hero.tsx
-│ ├── Navbar.tsx
-│ ├── Offer.tsx
-│ ├── Price.tsx
-│ ├── Review.tsx
-│ ├── WhyChoose.tsx
-│ └── Home.tsx
-│
-├── constant/
-│ └── Constant.ts # Static data and navigation links
-│
-├── globals.css # Global styles
-├── layout.tsx # Root layout
-├── page.tsx # Entry point (landing page)
-│
-public/
-├── images/ # Assets and icons
-│ ├── file.svg
-│ ├── globe.svg
-│ ├── next.svg
-│ ├── vercel.svg
-│ └── window.svg
-│
-.gitignore
-README.md
-next.config.ts
-package.json
-package-lock.json
-postcss.config.mjs
-tsconfig.json
-
----
-
 ## ⚙️ Getting Started  
 
 1. **Clone the repository**  
@@ -91,9 +51,9 @@ npm run dev
 
 http://localhost:3000
 
-📸 Screenshots
+📸 Live Demo
 
-(You can add screenshots of Hero, Pricing, or Features sections here for better presentation)
+[lustrous-griffin-029a95.netlify.app](https://lustrous-griffin-029a95.netlify.app/)
 
 📌 What I Learned
 
