@@ -10,6 +10,9 @@
 The project focuses on **clean UI, reusability, and performance**, providing a seamless user experience with scalable code structure.  
 
 ---
+## LiveDemo: 
+https://lustrous-griffin-029a95.netlify.app/
+---
 
 ## ✨ Features  
 
@@ -50,10 +53,6 @@ npm run dev
 4. Open in browser:
 
 http://localhost:3000
-
-📸 Live Demo
-
-[lustrous-griffin-029a95.netlify.app](https://lustrous-griffin-029a95.netlify.app/)
 
 📌 What I Learned
 
